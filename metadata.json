@@ -1,0 +1,6 @@
+{
+  "name": "Moschee Salmsach - Community App",
+  "description": "Moderne Community-App mit Liquid-Glass-Design für Moschee Salmsach (Islamische Gemeinschaft) mit Gebetszeiten-Live-Countdown, Feed, Vorstandskontakten, TWINT-Spenden und digitaler Mitgliedskarte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

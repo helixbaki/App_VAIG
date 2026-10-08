@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 760" fill="none">
+  <!-- VAIG_V2 - Three Architectural Arches Emblem -->
+  <!-- Middle Arch (Tallest) -->
+  <!-- Outer Arch -->
+  <path d="M 280 750 L 280 200 C 280 90 370 0 480 0 C 590 0 680 90 680 200 L 680 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+  <!-- Inner Arch -->
+  <path d="M 345 750 L 345 205 C 345 130 405 70 480 70 C 555 70 615 130 615 205 L 615 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+
+  <!-- Left Arch (Medium) -->
+  <!-- Outer Arch -->
+  <path d="M 25 750 L 25 360 C 25 240 105 160 200 160 C 295 160 375 240 375 360 L 375 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+  <!-- Inner Arch -->
+  <path d="M 90 750 L 90 365 C 90 295 140 230 200 230 C 260 230 310 295 310 365 L 310 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+
+  <!-- Right Arch (Medium, Mirror of Left) -->
+  <!-- Outer Arch -->
+  <path d="M 585 750 L 585 360 C 585 240 665 160 760 160 C 855 160 935 240 935 360 L 935 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+  <!-- Inner Arch -->
+  <path d="M 650 750 L 650 365 C 650 295 700 230 760 230 C 820 230 870 295 870 365 L 870 750" 
+        stroke="#9E8468" stroke-width="26" stroke-linecap="butt" stroke-linejoin="round" />
+</svg>
